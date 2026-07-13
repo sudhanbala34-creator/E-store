@@ -47,3 +47,39 @@ Name: Bala Sudhan
 Course: Database Management System (DBMS)
 
 Semester Project – Week 1
+
+## Week 2
+# Online Food Delivery Management System
+
+## Week 2 – Entity Identification and Relationship Analysis
+
+### Project Description
+
+This project is developed for the Database Management System (DBMS) course. The objective of Week 2 is to identify the entities, attributes, primary keys, foreign keys, and relationships required for designing the database.
+
+### Files Included
+
+* Entity_Identification_Report.pdf
+* ER_Model_Analysis.pdf
+* Relationship_Analysis.pdf
+* README.md
+
+### Topics Covered
+
+* Entity Identification
+* Attributes
+* Primary Keys
+* Foreign Keys
+* One-to-One Relationship
+* One-to-Many Relationship
+* Many-to-One Relationship
+* Many-to-Many Relationship
+* ER Model Analysis
+
+### Author
+
+Name: Bala Sudhan
+
+Course: Bachelor of Computer Applications (BCA)
+
+Subject: Database Management System (DBMS)
